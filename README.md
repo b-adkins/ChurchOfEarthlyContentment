@@ -3,4 +3,4 @@ Religion fills many deep needs of the human psyche. Let's share today's knowledg
 
 For the non-religious, this is intended as a substitute. For the religious, a supplement. All are welcome; there are no bad people, only bad actions and bad ideas.
 
-[See the Wiki](wiki) for content!
+[See the Wiki](https://github.com/b-adkins/ChurchOfEarthlyContentment/wiki) for content!
